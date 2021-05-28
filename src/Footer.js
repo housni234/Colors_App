@@ -1,12 +1,14 @@
-function Footer() {
-    return (
-        <div>
-            <button>Anterior</button>
-            <button>Seguinte</button>
-        </div>
-    )
-}
+
+
+// function Footer() {
+//     return (
+//         <div>
+//             <button>Anterior</button>
+//             <button>Seguinte</button>
+//         </div>
+//     )
+// }
 
 
 
-export default Footer;
+// export default Footer;

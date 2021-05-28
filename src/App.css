@@ -9,11 +9,11 @@
 
 .card{
 font-weight: 500;
-border:2px solid black;
+border:2px solid black; 
 border-radius: 6px;
 display: inline-grid;
 grid-template-columns: 120px 120px 120px;
-  grid-template-rows: 80px auto 80px; 
+grid-template-rows: 80px auto 80px; 
 margin: 3px;
 cursor: pointer;
 }
